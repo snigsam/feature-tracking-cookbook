@@ -12,7 +12,7 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+Atmospheric phenomena of interest are almost always dynamically evolving and rapidly changing. Examples include thunderstorm complexes, tropical/extratropical cyclones, or precipitation shields. Students or researchers studying these features must first be able to identify and track them through concurrent time steps before any further analysis.  
 
 ## Authors
 
