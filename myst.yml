@@ -48,6 +48,7 @@ project:
         - file: notebooks/SLP_scipy.ipynb
         - file: notebooks/precip_scikit.ipynb
         - file: notebooks/precip_matplotlib.ipynb
+        - file: notebooks/era5-demo.ipynb
   jupyter:
       binder:
         url: https://binder.projectpythia.org
