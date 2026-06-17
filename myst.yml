@@ -56,6 +56,7 @@ project:
       children:
         - file: notebooks/scikit_SLP_precip.ipynb
     - title: Appendix
+      children:
         - file: notebooks/era5-demo.ipynb
   jupyter:
       binder:
