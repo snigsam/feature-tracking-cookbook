@@ -41,7 +41,13 @@ project:
         - file: notebooks/how-to-cite.md
     - title: Introduction
       children:
-        - file: notebooks/notebook-template.ipynb
+        - file: notebooks/scikit_SLP_precip.ipynb
+        - file: notebooks/scipy_precip.ipynb
+        - file: notebooks/SLP_matplotlib.ipynb
+        - file: notebooks/SLP_scikit.ipynb
+        - file: notebooks/SLP_scipy.ipynb
+        - file: notebooks/precip_scikit.ipynb
+        - file: notebooks/precip_matplotlib.ipynb
   jupyter:
       binder:
         url: https://binder.projectpythia.org

@@ -8,15 +8,27 @@
 
 _See the [Cookbook Contributor's Guide](https://projectpythia.org/cookbook-guide) for step-by-step instructions on how to create your new Cookbook and get it hosted on the [Pythia Cookbook Gallery](https://cookbooks.projectpythia.org)!_
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
+This Project Pythia Cookbook covers how to identify and track meteorological features across space and time using three methods: Matplotlib, SciPy, and Scikit.
+
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+Atmospheric phenomena of interest are almost always dynamically evolving and rapidly changing. Examples include thunderstorm complexes, tropical/extratropical cyclones, or precipitation shields. Students or researchers studying these features must first be able to identify and track them through concurrent time steps before any further analysis.  
+
+Listed below is the workflow for identifying and tracking 2D geophysical features in gridded data.
+
+More specifically, it is aimed at users who have fields such as sea-level pressure, precipitation, CWV, temperature, vorticity, or reflectivity, and want to:
+
+ - Identify spatial objects from a thresholded field
+ - Compare different object-identification methods
+ - Extract simple object properties such as area, centroid, and mask
+ - Track those objects through time using frame-to-frame overlap
+
+
 
 ## Authors
 
-First Author, Second Author, etc. _Acknowledge primary content authors here! You can include links to their GitHub profiles or other unique pages._
+Matthew Lynne, Brian Rose, Sarah Ravellette, Snigdha Samantaray, Jacob Vile, Christine Deng, Reda Algendy 
 
 ### Contributors
 
@@ -26,15 +38,19 @@ First Author, Second Author, etc. _Acknowledge primary content authors here! You
 
 ## Structure
 
-(State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
+This cookbook is broken up into three main sections - "Overview," "Precipitation," "and Sea Level Pressure"
 
-### Section 1 ( Replace with the title of this section, e.g. "Foundations" )
+### Section 1 "Overview"
 
-(Add content for this section, e.g., "The foundational content includes ... ")
+"The overview content includes what types of methods were used and information on extratropical cyclones"
 
-### Section 2 ( Replace with the title of this section, e.g. "Example workflows" )
+### Section 2 "Precipitation"
 
-(Add content for this section, e.g., "Example workflows include ... ")
+"Example workflows include how to track precipitation over time"
+
+### Section 3 "Sea Level Pressure"
+
+"Example workflows include how to track sea level pressure over time"
 
 ## Running the Notebooks
 
