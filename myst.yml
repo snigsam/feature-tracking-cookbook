@@ -55,6 +55,7 @@ project:
     - title: Combined Tracking
       children:
         - file: notebooks/scikit_SLP_precip.ipynb
+        - file: notebooks/scipy_precip_slp.ipynb
     - title: Appendix
       children:
         - file: notebooks/era5-demo.ipynb
