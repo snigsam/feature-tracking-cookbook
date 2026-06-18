@@ -25,7 +25,6 @@ More specifically, it is aimed at users who have fields such as *sea-level press
  - **Track** those objects through time using frame-to-frame overlap
 
 
-
 ## Authors
 
 Matthew Lynne, Brian Rose, Sarah Ravellette, Snigdha Samantaray, Jacob Vile, Christine Deng, Reda Algendy 
