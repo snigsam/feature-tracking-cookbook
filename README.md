@@ -1,6 +1,6 @@
 # Feature Tracking Cookbook
 
-<img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
+<img src="thumbnails/readmethumb.png" alt="thumbnail" width="300"/>
 
 [![nightly-build](https://github.com/ProjectPythia/feature-tracking-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/feature-tracking-cookbook/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/feature-tracking-cookbook/main?labpath=notebooks)
